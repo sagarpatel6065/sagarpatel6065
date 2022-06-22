@@ -22,4 +22,4 @@ Hola, I'm Sagar! 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&show_icons=true&theme=radical">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpatel6065&repo=github-readme-stats">
