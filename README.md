@@ -21,7 +21,8 @@ Hola, I'm Sagar! 👋
 🌐 
 
  
-(https://github-readme-stats.vercel.app/api?username=Sagarpatel6065)]
+https://github-readme-stats.vercel.app/api?username=sagarpatel6065)
+
 <!-- (https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&hide=contribs,prs)
 (https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&count_private=true)
 (https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&show_icons=true)
