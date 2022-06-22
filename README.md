@@ -20,15 +20,4 @@ Hola, I'm Sagar! 👋
 
 🌐 
 
- 
-<img src="https://github-readme-stats.vercel.app/api?username=sagarpatel6065">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&hide=contribs,prs">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&count_private=true">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&show_icons=true">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sagarpatel6065&show_icons=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarpatel6065&repo=github-readme-stats">
