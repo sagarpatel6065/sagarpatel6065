@@ -1,16 +1,12 @@
-### Hi there 👋
+Hola, I'm Sagar! 👋
 
-<!--
-**sagarpatel6065/sagarpatel6065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫About Me :
+🔭 I’m currently a student.
+🌱 I’m currently learning more about machine learning.
+👯 I’m looking to collaborate regarding ML/DL.
+🤔 I’m looking for help with Data science related documents.
+💬 Ask me about Flutter or any tech-related stuff.
+📫 How to reach me: Email : Sagarcse24@gmail.com
+😄 Pronouns: He/His
+⚡ Fun fact: I spend almost 4 to 5 hours in a gym every day.
+🌐
