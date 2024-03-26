@@ -2,7 +2,7 @@ Hello, I'm Sagar! 👋
 
 💫About Me: 
 
-      🔭 I’m currently a student. 
+      🔭 I’m currently looking for a job in specific data-related field. 
 
       🌱 I’m currently learning more about machine learning. 
 
