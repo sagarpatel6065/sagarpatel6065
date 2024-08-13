@@ -4,7 +4,7 @@ Hello, I'm Sagar! 👋
 
       🔭 I’m currently looking for a job in specific data-related field. 
 
-      🌱 I’m currently learning more about machine learning. 
+      🌱 I’m currently learning more about Data Engineering, Machine Learning. 
 
       👯 I’m looking to collaborate regarding ML/DL. 
 
